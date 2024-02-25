@@ -1,0 +1,2 @@
+1, Mengenal Laravel, Ini adalah laravel yang gila banget co asli laravel laravel jaya jaya., 2022-11-06 10:00:00
+2, Sejarah Laravel, Ini adalah laravel yang gila banget co asli laravel laravel jaya jaya., 2022-12-06 11:30:00
